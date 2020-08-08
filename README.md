@@ -31,6 +31,10 @@ I like to study computer science(programming), I really love to work with: **Pyt
 ## 📫 How to reach me, please don't hesitate:
 **Email:** eufraniodiogo5@gmail.com
 
+## Do you want access one of my projects? Click one of the links bellow:
+  - [Uija Code](https://eufraniodiogo.github.io/Meu-Web-Site/)
+  - [Rock Paper Scissor - Game](https://eufraniodiogo.github.io/Rock-Paper-Scissor/)
+  - [To Do List - App](https://eufraniodiogo.github.io/toDoApp/)
 
 ## ⚡ Fun fact:
   - I love to learn languages(I'm portuguese native speaker)
@@ -66,6 +70,10 @@ Eu gosto de estudar Ciência da Computação, realmente amo trabalhar com: **Pyt
 ## ⚡ Factos interessantes:
   - Eu amo aprender línguar(Sou falante nativo de português),
 
+## Quer acessar um dos meus projectos? Clique em um dos links abaixo:
+  - [Uija Code](https://eufraniodiogo.github.io/Meu-Web-Site/)
+  - [Rock Paper Scissor - Game](https://eufraniodiogo.github.io/Rock-Paper-Scissor/)
+  - [To Do List - App](https://eufraniodiogo.github.io/toDoApp/)
 
 <!--
 **EufranioDiogo/EufranioDiogo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
