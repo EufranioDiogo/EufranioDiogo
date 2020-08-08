@@ -20,15 +20,15 @@ I like to study computer science(programming), I really love to work with: **Pyt
 
 
 ## Links of some of my main repos:
-  1. [My Site]()
-  2. [Algorithms and Data Strutuctes]()
-  3. [Rock Paper Scissor]()
-  4. [My To Do App]()
-  5. [Pomodoro Technic(developed with Python)]()
-  6. [Hyper Skill Projects]()
+  1. [My Site](https://github.com/EufranioDiogo/Meu-Web-Site)
+  2. [Algorithms and Data Strutuctes with Python](https://github.com/EufranioDiogo/Python-Algorithms-and-Complexity)
+  3. [Rock Paper Scissor](https://github.com/EufranioDiogo/Rock-Paper-Scissor)
+  4. [My To Do App](https://github.com/EufranioDiogo/toDoApp)
+  5. [Pomodoro Technic(developed with Python)](https://github.com/EufranioDiogo/Pomodoro)
+  6. [Hyper Skill Projects](https://github.com/EufranioDiogo/HyperSkillProjects)
 
 
-## 📫 How to reach me, please don't esitaite:
+## 📫 How to reach me, please don't hesitate:
 **Email:** eufraniodiogo5@gmail.com
 
 
@@ -52,12 +52,12 @@ Eu gosto de estudar Ciência da Computação, realmente amo trabalhar com: **Pyt
 
 
 ## Links de alguns dos meus principais repositórios:
-  1. [My Site]()
-  2. [Algorithms and Data Strutuctes]()
-  3. [Rock Paper Scissor]()
-  4. [My To Do App]()
-  5. [Pomodoro Technic(developed with Python)]()
-  6. [Hyper Skill Projects]()
+  1. [My Site](https://github.com/EufranioDiogo/Meu-Web-Site)
+  2. [Algorithms and Data Strutuctes with Python](https://github.com/EufranioDiogo/Python-Algorithms-and-Complexity)
+  3. [Rock Paper Scissor](https://github.com/EufranioDiogo/Rock-Paper-Scissor)
+  4. [My To Do App](https://github.com/EufranioDiogo/toDoApp)
+  5. [Pomodoro Technic(developed with Python)](https://github.com/EufranioDiogo/Pomodoro)
+  6. [Hyper Skill Projects](https://github.com/EufranioDiogo/HyperSkillProjects)
 
 
 ## 📫 Como me contactar, por-favor não esite:
