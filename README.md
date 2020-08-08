@@ -1,7 +1,7 @@
 
-| English | [click me](#English)|
+| English Desc| [click me](#English)|
 |---------|--------------------------|
-| Português | [clique-me](#Português)|
+| **Desc Português** | **[clique-me](#Português)**|
 
 # English
 
