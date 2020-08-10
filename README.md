@@ -24,8 +24,9 @@ I like to study computer science(programming), I really love to work with: **Pyt
   2. [Algorithms and Data Strutuctes with Python][algorithms&DataStructuresRepo]
   3. [Rock Paper Scissor][gameRockPaperScissorRepo]
   4. [My To Do App][toDoAppRepo]
-  5. [Pomodoro Technic(developed with Python)][pomodoroRepo]
-  6. [Hyper Skill Projects][hyperSkillProjectsRepo]
+  5. [Facebook Post Publisher][botPostPublisher]
+  6. [Pomodoro Technic(developed with Python)][pomodoroRepo]
+  7. [Hyper Skill Projects][hyperSkillProjectsRepo]
 
 
 ## 📫 How to reach me, please don't hesitate:
@@ -60,8 +61,9 @@ Eu gosto de estudar Ciência da Computação, realmente amo trabalhar com: **Pyt
   2. [Algorithms and Data Strutuctes with Python][algorithms&DataStructuresRepo]
   3. [Rock Paper Scissor][gameRockPaperScissorRepo]
   4. [My To Do App][toDoAppRepo]
-  5. [Pomodoro Technic(developed with Python)][pomodoroRepo]
-  6. [Hyper Skill Projects][hyperSkillProjectsRepo]
+  5. [Facebook Post Publisher][botPostPublisher]
+  7. [Pomodoro Technic(developed with Python)][pomodoroRepo]
+  8. [Hyper Skill Projects][hyperSkillProjectsRepo]
 
 
 ## 📫 Como me contactar, por-favor não esite:
@@ -99,3 +101,4 @@ Here are some ideas to get you started:
 [toDoAppRepo]: https://github.com/EufranioDiogo/toDoApp
 [pomodoroRepo]: https://github.com/EufranioDiogo/Pomodoro
 [hyperSkillProjectsRepo]: https://github.com/EufranioDiogo/HyperSkillProjects
+[botPostPublisher]: https://github.com/EufranioDiogo/Bot_Publicador_de_Post_Facebook
