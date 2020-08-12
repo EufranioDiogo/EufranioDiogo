@@ -5,7 +5,7 @@
 
 # English
 
-## ✨ 👋 Hi there 👋 ✨
+## ✨ 👋 Hi Githubers :smile: 👋 ✨
 
 
 I'm Eufránio, do you want a thing like this in your Github? If yes [click here](https://dev.to/natterstefan/how-to-add-a-readme-to-your-github-profile-2bo9).
@@ -43,7 +43,7 @@ I like to study computer science(programming), I really love to work with: **Pyt
 
 # Português
 
-## ✨ 👋 Olá pessoal 👋 ✨
+## ✨ 👋 Olá Githubers :smile: 👋 ✨
 
 Sou o Eufránio, queres fazer algo como está no seu Github? Se sim [clica aqui](https://dev.to/natterstefan/how-to-add-a-readme-to-your-github-profile-2bo9).
 
