@@ -7,75 +7,70 @@
 
 ## ✨ 👋 Hi Githubers :smile: 👋 ✨
 
+Hi dudes pleasure to have you here, I don't know what are you looking for, but go ahead and I hope that my Github can help you.
 
-I'm Eufránio, do you want a thing like this in your Github? If yes [click here](https://dev.to/natterstefan/how-to-add-a-readme-to-your-github-profile-2bo9).
-
-I like to study computer science(programming), I really love to work with: **Python**, **JS**, **HTML**, **CSS**, **SQL**. I don't like so much work with **Java** or **C** but come on sometimes I need to work with those!
-
-
-## In my Github you can find:
+## What can you find in my Github?
   - Projects that I'm making.
-  - My own repos that can show exercises that I do to improve my skills and also others's repos that I like.
-  - You can also find my site, [click here to go there](https://eufraniodiogo.github.io/Meu-Web-Site)
+  - My own repos, Exercises that I make and also others's repos that I like(forks).
 
-
-## Links of some of my main repos:
+## Links to my top 5 Repos:
   1. [My Site][webSiteRepo]
-  2. [Algorithms and Data Strutuctes with Python][algorithms&DataStructuresRepo]
+  2. [Download Organizer][downloadOrganizer]
   3. [Rock Paper Scissor][gameRockPaperScissorRepo]
-  4. [My To Do App][toDoAppRepo]
+  3. [Algorithms and Data Strutuctes with Python][algorithms&DataStructuresRepo]
+  4. [Hyper Skill Projects][hyperSkillProjectsRepo]
   5. [Facebook Post Publisher][botPostPublisher]
-  6. [Pomodoro Technic(developed with Python)][pomodoroRepo]
-  7. [Hyper Skill Projects][hyperSkillProjectsRepo]
 
+**You can find more of them here:** [Eufránio Diogo Repos](https://github.com/EufranioDiogo?tab=repositories)
 
-## 📫 How to reach me, please don't hesitate:
-**Email:** eufraniodiogo5@gmail.com
+**📫 Do want contact me? If yes email me:** eufraniodiogo5@gmail.com
 
-## Do you want access one of my projects? Click one of the links bellow:
-  - [Uija Code][webSite]
-  - [Rock Paper Scissor - Game][gameRockPaperScissor]
-  - [To Do List - App][toDoApp]
+## Do you wanna experiment any thing? Here you are:
+  - [My Web Site(Uija Code)][webSite]
+  - [Rock Paper Scissor][gameRockPaperScissor]
+  - [To Do List][toDoApp]
 
 ## ⚡ Fun fact:
-  - I love to learn languages(I'm portuguese native speaker)
+  - Love to code and learn more stuff even when it's not so sweet.
+  - I love to learn languages.
+  - I love to talk with people.
   
+**Note:** Do you want learn how I personalized my Github account? [Click here](https://dev.to/natterstefan/how-to-add-a-readme-to-your-github-profile-2bo9).
+
 
 # Português
 
-## ✨ 👋 Olá Githubers :smile: 👋 ✨
+## ✨ 👋 Hi Githubers :smile: 👋 ✨
 
-Sou o Eufránio, queres fazer algo como está no seu Github? Se sim [clica aqui](https://dev.to/natterstefan/how-to-add-a-readme-to-your-github-profile-2bo9).
+Ola manos(as) prazer por ter vocês aqui, eu não sei o que vocês estão procurando, mas força e espero que o meu Github consiga vos ajudar.
 
-Eu gosto de estudar Ciência da Computação, realmente amo trabalhar com: **Python**, **JS**, **HTML**, **CSS**, **SQL**. Não gosto muito de trabalhar com **Java** ou **C** mas vem cá por vezes tenho de trabalhar com elas!
-
-
-## No meu Github podes encontrar:
+## O que você pode encontrar no meu Github?
   - Projectos que estou a fazer.
-  - Meus próprios repositórios que mostro exercícios que faço para melhorar as minhas habilidades e também repositórios de outras pessoas que gosto!
-  - Você também pode encontrar o meu web-site, [clica aqui para ir dar uma vista de olhos](https://eufraniodiogo.github.io/Meu-Web-Site)
+  - Meus próprios repositórios, exercícios que faço e repositórios the outras pessoas que gosto(forks).
 
-
-## Links de alguns dos meus principais repositórios:
+## Links dos meus top 5 repositórios:
   1. [My Site][webSiteRepo]
-  2. [Algorithms and Data Strutuctes with Python][algorithms&DataStructuresRepo]
+  2. [Download Organizer][downloadOrganizer]
   3. [Rock Paper Scissor][gameRockPaperScissorRepo]
-  4. [My To Do App][toDoAppRepo]
+  3. [Algorithms and Data Strutuctes with Python][algorithms&DataStructuresRepo]
+  4. [Hyper Skill Projects][hyperSkillProjectsRepo]
   5. [Facebook Post Publisher][botPostPublisher]
-  7. [Pomodoro Technic(developed with Python)][pomodoroRepo]
-  8. [Hyper Skill Projects][hyperSkillProjectsRepo]
 
+**Podes encontrar mais deles aqui:** [Eufránio Diogo Repos](https://github.com/EufranioDiogo?tab=repositories)
 
-## 📫 Como me contactar, por-favor não esite:
-**Email:** eufraniodiogo5@gmail.com
+**📫 Queres me contactar? Se sim envia-me um email:** eufraniodiogo5@gmail.com
 
-## ⚡ Factos interessantes:
-  - Eu amo aprender línguar(Sou falante nativo de português),
+## Você quer exprimentar alguma coisa? Aqui tens:
+  - [My Web Site(Uija Code)][webSite]
+  - [Rock Paper Scissor][gameRockPaperScissor]
+  - [To Do List][toDoApp]
 
-## Quer acessar um dos meus projectos? Clique em um dos links abaixo:
-  - [Uija Code][webSite]
-  - [Rock Paper Scissor - Game][gameRockPaperScissor]
-  - [To Do List - App][toDoApp]
+## ⚡ Factos Interessantes:
+  - Amo programar e mais coisas mesmo que não sejam tão doces.
+  - Amo aprender linguas.
+  - Amo falar com as pessoas.
+  
+**Nota:** Você quer aprender como personalizei a minha conta do Github? [Clica aqui](https://dev.to/natterstefan/how-to-add-a-readme-to-your-github-profile-2bo9).
 
 <!--
 **EufranioDiogo/EufranioDiogo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -102,3 +97,4 @@ Here are some ideas to get you started:
 [pomodoroRepo]: https://github.com/EufranioDiogo/Pomodoro
 [hyperSkillProjectsRepo]: https://github.com/EufranioDiogo/HyperSkillProjects
 [botPostPublisher]: https://github.com/EufranioDiogo/Bot_Publicador_de_Post_Facebook
+[downloadOrganizer]: https://github.com/EufranioDiogo/Download-Organizer
