@@ -17,8 +17,7 @@ Hi dudes pleasure to have you here, I don't know what are you looking for, but g
   1. [My Site][webSiteRepo]
   2. [Download Organizer][downloadOrganizer]
   3. [Rock Paper Scissor][gameRockPaperScissorRepo]
-  3. [Algorithms and Data Strutuctes with Python][algorithms&DataStructuresRepo]
-  4. [Hyper Skill Projects][hyperSkillProjectsRepo]
+  4. [Algorithms and Data Strutuctes with Python][algorithms&DataStructuresRepo]
   5. [Facebook Post Publisher][botPostPublisher]
 
 **You can find more of them here:** [Eufránio Diogo Repos](https://github.com/EufranioDiogo?tab=repositories)
@@ -52,8 +51,7 @@ Ola manos(as) prazer por ter vocês aqui, eu não sei o que vocês estão procur
   1. [My Site][webSiteRepo]
   2. [Download Organizer][downloadOrganizer]
   3. [Rock Paper Scissor][gameRockPaperScissorRepo]
-  3. [Algorithms and Data Strutuctes with Python][algorithms&DataStructuresRepo]
-  4. [Hyper Skill Projects][hyperSkillProjectsRepo]
+  4. [Algorithms and Data Strutuctes with Python][algorithms&DataStructuresRepo]
   5. [Facebook Post Publisher][botPostPublisher]
 
 **Podes encontrar mais deles aqui:** [Eufránio Diogo Repos](https://github.com/EufranioDiogo?tab=repositories)
