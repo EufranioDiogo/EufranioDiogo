@@ -1,10 +1,3 @@
-
-| English Desc| [click me](#English)|
-|---------|--------------------------|
-| **Desc Português** | **[clique-me](#Português)**|
-
-# English
-
 ## ✨ 👋 Hi Githubers :smile: 👋 ✨
 
 Hi dudes pleasure to have you here, I don't know what are you looking for, but go ahead and I hope that my Github can help you.
@@ -35,41 +28,6 @@ Hi dudes pleasure to have you here, I don't know what are you looking for, but g
   - I love to talk with people.
   
 **Note:** Do you want learn how I personalized my Github account? [Click here](https://dev.to/natterstefan/how-to-add-a-readme-to-your-github-profile-2bo9).
-
-
-# Português
-
-## ✨ 👋 Hi Githubers :smile: 👋 ✨
-
-Ola manos(as) prazer por ter vocês aqui, eu não sei o que vocês estão procurando, mas força e espero que o meu Github consiga vos ajudar.
-
-## O que você pode encontrar no meu Github?
-  - Projectos que estou a fazer.
-  - Meus próprios repositórios, exercícios que faço e repositórios the outras pessoas que gosto(forks).
-
-## Links dos meus top 5 repositórios:
-  1. [My Site][webSiteRepo]
-  2. [Download Organizer][downloadOrganizer]
-  3. [Rock Paper Scissor][gameRockPaperScissorRepo]
-  4. [Algorithms and Data Strutuctes with Python][algorithms&DataStructuresRepo]
-  5. [Facebook Post Publisher][botPostPublisher]
-
-**Podes encontrar mais deles aqui:** [Eufránio Diogo Repos](https://github.com/EufranioDiogo?tab=repositories)
-
-**📫 Queres me contactar? Se sim envia-me um email:** eufraniodiogo5@gmail.com
-
-## Você quer exprimentar alguma coisa? Aqui tens:
-  - [My Web Site(Uija Code)][webSite]
-  - [Rock Paper Scissor][gameRockPaperScissor]
-  - [To Do List][toDoApp]
-
-## ⚡ Factos Interessantes:
-  - Amo programar e mais coisas mesmo que não sejam tão doces.
-  - Amo aprender linguas.
-  - Amo falar com as pessoas.
-  
-**Nota:** Você quer aprender como personalizei a minha conta do Github? [Clica aqui](https://dev.to/natterstefan/how-to-add-a-readme-to-your-github-profile-2bo9).
-
 <!--
 **EufranioDiogo/EufranioDiogo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
