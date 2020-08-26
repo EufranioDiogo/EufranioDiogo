@@ -6,12 +6,11 @@ Hi dudes pleasure to have you here, I don't know what are you looking for, but g
   - Projects that I'm making.
   - My own repos, Exercises that I make and also others's repos that I like(forks).
 
-## Links to my top 5 Repos:
-  1. [My Site][webSiteRepo]
-  2. [Download Organizer][downloadOrganizer]
-  3. [Rock Paper Scissor][gameRockPaperScissorRepo]
-  4. [Algorithms and Data Strutuctes with Python][algorithms&DataStructuresRepo]
-  5. [Facebook Post Publisher][botPostPublisher]
+## 4 My repos that I like to work on:
+  - [Download Organizer][downloadOrganizer]
+  - [Rock Paper Scissor][gameRockPaperScissorRepo]
+  - [Algorithms and Data Strutuctes with Python][algorithms&DataStructuresRepo]
+  - [Facebook Post Publisher][botPostPublisher]
 
 **You can find more of them here:** [Eufránio Diogo Repos](https://github.com/EufranioDiogo?tab=repositories)
 
