@@ -10,7 +10,7 @@
     <li>Open Sourcer.</li>
 </ul>
 
-<p>Checkout my <a href="https://wwww.eufraniodiogo.github.io/"><strong>Portifolio.</strong></a> to find more about my work.</p>
+<p>Checkout my <a href="https://www.eufraniodiogo.github.io/"><strong>Portifolio.</strong></a> to find more about my work.</p>
 
 <h3>by Eufránio Diogo<h3>
   
