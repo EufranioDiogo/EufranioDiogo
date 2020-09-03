@@ -10,11 +10,8 @@
     <li>Open Sourcer.</li>
 </ul>
 
-<p>Checkout my <a href="https://wwww.eufraniodiogo.github.io/"></a><strong>Portifolio.</strong> to find more about my work.</p>
+<p>Checkout my <a href="https://wwww.eufraniodiogo.github.io/"><strong>Portifolio.</strong></a> to find more about my work.</p>
 
 <h3>by Eufránio Diogo<h3>
-
-
-<a href="htpps://eufraniodiogo.github.io/">My Portifolio</a>
   
 **Note:** Do you want learn how I personalized my Github account? [Click here](https://dev.to/natterstefan/how-to-add-a-readme-to-your-github-profile-2bo9).
