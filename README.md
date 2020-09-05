@@ -7,7 +7,7 @@
     <li>Front-end Developer :computer:.</li>
     <li>Computer Science Student :book:.</li>
     <li>Python Lover :snake:.</li>
-    <li>Open Sourcer.</li>
+    <li>Open Sourcer :bookmark_tabs: .</li>
 </ul>
 
 <p>Checkout my <a href="https://eufraniodiogo.github.io/"><strong>Portifolio.</strong></a> to find more about my work.</p>
