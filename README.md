@@ -12,6 +12,6 @@
 
 <p>Checkout my <a href="https://eufraniodiogo.github.io/"><strong>Portifolio.</strong></a> to find more about my work.</p>
 
-<h3>by Eufránio Diogo<h3>
+<h3>by Eufránio Diogo</h3>
   
 **Note:** Do you want learn how I personalized my Github account? [Click here](https://dev.to/natterstefan/how-to-add-a-readme-to-your-github-profile-2bo9).
