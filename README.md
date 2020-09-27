@@ -1,6 +1,6 @@
-<h2> Hi, I'm Eufránio Diogo! <img src="https://media.giphy.com/media/5Zesu5VPNGJlm/giphy-downsized.gif" width="100"></h2>
-<p><em>Computer Science Student at <a href="http://www.ucan.edu/www14/index.php">UCAN(Angolan Catholic Unversity)</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></em></p>
-<p><strong>Front-end Developer, actually learning Back-end.</strong></p>
+<h2><img src="https://media.giphy.com/media/5Zesu5VPNGJlm/giphy-downsized.gif" width="100">Hi, I'm Eufránio Diogo!</h2>
+<p><em>Computer Science Student at <a href="http://www.ucan.edu/www14/index.php">UCAN(Angolan Catholic Unversity)</a></em></p>
+<h3><strong>Front-end Developer, actually learning Back-end.</strong></h3>
 
 ---
 My portifolio: <a href="https://eufraniodiogo.github.io" target="_blank">Portifolio</a>
@@ -31,3 +31,5 @@ let eufranioDiogo  =
 ```
 
 <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em><br>
+**Email:** eufraniodigo146@gmail.com <br>
+**Linkedin:** https://www.linkedin.com/in/eufranio-diogo-a33145122/
