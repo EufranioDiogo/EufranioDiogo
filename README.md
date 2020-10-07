@@ -1,4 +1,4 @@
-<h2><img src="https://media.giphy.com/media/5Zesu5VPNGJlm/giphy-downsized.gif" width="100">Hi, I'm Eufránio Diogo!</h2>
+<h2>Hi, I'm Eufránio Diogo!</h2>
 <p><em>Computer Science Student at <a href="http://www.ucan.edu/www14/index.php">UCAN(Angolan Catholic Unversity)</a></em></p>
 <h3><strong>Front-end Developer, actually learning Back-end.</strong></h3>
 
