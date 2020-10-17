@@ -1,34 +1,42 @@
-<h2>Hi, I'm Eufránio Diogo!</h2>
-<p><em>Computer Science Student at <a href="http://www.ucan.edu/www14/index.php">UCAN(Angolan Catholic Unversity)</a></em></p>
-<h3><strong>Front-end Developer, actually learning Back-end.</strong></h3>
+<h2>I'm Eufránio Diogo!</h2>
+<p><em>Computer Science Student</p>
+<h2>Front-end Developer.</h2>
 
----
-My portifolio: <a href="https://eufraniodiogo.github.io" target="_blank">Portifolio</a>
----
-<br>
+<center>
+<table>
+    <tr>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EufranioDiogo&layout=compact&theme=buefy" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=EufranioDiogo&theme=buefy"/></td>
+    </tr>   
+</table>
+</center>
 
-[![GitHub EufranioDiogo](https://img.shields.io/github/followers/EufranioDiogo?label=follow&style=social)](https://github.com/EufranioDiogo)
 
+
+<hr>
+
+**My portifolio:**  <a href="https://eufraniodiogo.github.io" target="_blank">Portifolio</a>
 
 ![](https://komarev.com/ghpvc/?username=EufranioDiogo&color=blue&style=flat)
+<br>
+
+
 
 ### <img src="https://media.giphy.com/media/BemKqR9RDK4V2/giphy.gif" width="100"> A little more about me...  
 
 ```
-// Javascript
-let eufranioDiogo  = 
 {
-  pronouns: 'He' | 'Him' | 'Dev',
+  pronouns: 'He',
   nationality: 'Angolan',
-  code: ['Javascript', 'Vue.js', 'HTML', 'CSS', 'Node.js', 'Python', 'Java', 'C'],
-  actualDevTools: ['VS Code', 'git', 'Insomnia'],
+  hobbies: 'Listen music, talk with friends and try to watch tech curisoties and reading.',
   techCommunities: ['devchallenges.io', 'devchallenges.br'],
-  challenge: "I'm learning doing back-end challenges from devchallenges.io",
   contact: {
     email: 'eufraniodiogo146@gmail.com',
     linekdin: 'https://www.linkedin.com/in/eufranio-diogo-a33145122/'
+    facebook: ''
   },
-  hobbies: 'Listen music, talk with friends and try to watch tech curisoties and reading.'
+  actualDevTools: ['VS Code', 'git', 'Insomnia'],
+  code: ['Javascript', 'Vue.js', 'HTML', 'CSS', 'Node.js', 'Python', 'Java', 'C'],
 }
 ```
 
