@@ -10,6 +10,8 @@ My portifolio: <a href="https://eufraniodiogo.github.io" target="_blank">Portifo
 [![GitHub EufranioDiogo](https://img.shields.io/github/followers/EufranioDiogo?label=follow&style=social)](https://github.com/EufranioDiogo)
 
 
+![](https://komarev.com/ghpvc/?username=EufranioDiogo&color=blue&style=flat)
+
 ### <img src="https://media.giphy.com/media/BemKqR9RDK4V2/giphy.gif" width="100"> A little more about me...  
 
 ```
