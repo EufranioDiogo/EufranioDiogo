@@ -21,9 +21,7 @@
 ![](https://komarev.com/ghpvc/?username=EufranioDiogo&color=blue&style=flat)
 <br>
 
-
-
-### <img src="https://media.giphy.com/media/BemKqR9RDK4V2/giphy.gif" width="100"> A little more about me...  
+## Personal Details
 
 ```
 {
@@ -42,5 +40,6 @@
 ```
 
 <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em><br>
+
 **Email:** eufraniodigo146@gmail.com <br>
 **Linkedin:** https://www.linkedin.com/in/eufranio-diogo-a33145122/
