@@ -1,6 +1,23 @@
-<h2>I'm Eufránio Diogo!</h2>
-<p><em>Computer Science Student</p>
-<h2>Front-end Developer.</h2>
+<h1>Hi I'm Eufránio Diogo :smile:</h1>
+
+## Professional Description
+    Student of Computer Science
+    Front-end Dev
+
+## Personal Details
+
+```
+{
+  nationality: 'Angolan',
+  hobbies: 'Listen music, talk',
+  techCommunities: ['devchallenges.io'],
+  contact: {
+    email: 'eufraniodiogo146@gmail.com',
+    linekdin: 'https://www.linkedin.com/in/eufranio-diogo-a33145122/'
+  },
+  code: ['Javascript', 'Vue.js', 'HTML', 'CSS', 'Node.js', 'Python', 'Java', 'C'],
+}
+```
 
 <center>
 <table>
@@ -11,34 +28,12 @@
 </table>
 </center>
 
-
+**My portifolio:**  <a href="https://eufraniodiogo.github.io" target="_blank">Portifolio</a>
 
 <hr>
 
-**My portifolio:**  <a href="https://eufraniodiogo.github.io" target="_blank">Portifolio</a>
-
-
 ![](https://komarev.com/ghpvc/?username=EufranioDiogo&color=blue&style=flat)
 <br>
-
-## Personal Details
-
-```
-{
-  pronouns: 'He',
-  nationality: 'Angolan',
-  hobbies: 'Listen music, talk with friends and try to watch tech curisoties and reading.',
-  techCommunities: ['devchallenges.io', 'devchallenges.br'],
-  contact: {
-    email: 'eufraniodiogo146@gmail.com',
-    linekdin: 'https://www.linkedin.com/in/eufranio-diogo-a33145122/'
-    facebook: ''
-  },
-  actualDevTools: ['VS Code', 'git', 'Insomnia'],
-  code: ['Javascript', 'Vue.js', 'HTML', 'CSS', 'Node.js', 'Python', 'Java', 'C'],
-}
-```
-
 <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em><br>
 
 **Email:** eufraniodigo146@gmail.com <br>
