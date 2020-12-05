@@ -1,12 +1,14 @@
 <h1>Hi I'm Eufránio Diogo :smile:</h1>
 
 ## Professional Description
-    Student of Computer Science
-    Front-end Dev
+```
+Student of Computer Science
+Front-end Dev
+```
 
 ## Personal Details
 
-```
+```js
 {
   nationality: 'Angolan',
   hobbies: 'Listen music, talk',
@@ -28,9 +30,12 @@
 </table>
 </center>
 
-**My portifolio:**  <a href="https://eufraniodiogo.github.io" target="_blank">Portifolio</a>
+<h1 align="center">
+    <a align="center" href="https://eufraniodiogo.github.io" target="_blank">Portfolio</a>
+</h1>
 
-<hr>
+
+___
 
 ![](https://komarev.com/ghpvc/?username=EufranioDiogo&color=blue&style=flat)
 <br>
