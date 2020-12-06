@@ -15,7 +15,8 @@ Front-end Dev
   techCommunities: ['devchallenges.io'],
   contact: {
     email: 'eufraniodiogo146@gmail.com',
-    linekdin: 'https://www.linkedin.com/in/eufranio-diogo-a33145122/'
+    linekdin: 'https://www.linkedin.com/in/eufranio-diogo-a33145122/',
+    youtube: 'https://www.youtube.com/channel/UCGHrfgpFKFI7lCork7iKF6g'
   },
   code: ['Javascript', 'Vue.js', 'HTML', 'CSS', 'Node.js', 'Python', 'Java', 'C'],
 }
