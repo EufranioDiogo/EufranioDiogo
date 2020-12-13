@@ -2,7 +2,7 @@
 
 ## Professional Description
 ```
-Student of Computer Science
+Student of Computer Science(UCAN)
 Front-end Dev
 ```
 
