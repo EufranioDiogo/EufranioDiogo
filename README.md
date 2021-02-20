@@ -1,26 +1,29 @@
-<h1>Hi I'm Eufránio Diogo :smile:</h1>
+<h1>Hello bem-vindo ao Github Eufránio Diogo :smile:</h1>
 
-## Professional Description
+<h2 align="center">Description</h2>
+
 ```
-Student of Computer Science(UCAN)
+Computer Science Student - (UCAN)
 Front-end Dev
+Aspirant to Back-end
 ```
 
-## Personal Details
+<h2 align="center">Personal Details</h2>
 
 ```js
 {
+  name: 'Eufránio Diogo'
   nationality: 'Angolan',
-  hobbies: 'Listen music, talk',
-  techCommunities: ['devchallenges.io'],
+  hobbies: ['talk', 'listen music', 'read', 'code'],
   contact: {
     email: 'eufraniodiogo146@gmail.com',
     linekdin: 'https://www.linkedin.com/in/eufranio-diogo-a33145122/',
     youtube: 'https://www.youtube.com/channel/UCGHrfgpFKFI7lCork7iKF6g'
   },
-  code: ['Javascript', 'Vue.js', 'HTML', 'CSS', 'Node.js', 'Python', 'Java', 'C'],
+  code: ['Javascript', 'Java', 'C', 'Python','Vue.js', 'HTML', 'CSS', 'Node.js'],
 }
 ```
+
 
 <center>
 <table>
@@ -31,7 +34,7 @@ Front-end Dev
 </table>
 </center>
 
-<h1 align="center">
+<h1 align="center" style="color: red;">
     <a align="center" href="https://eufraniodiogo.github.io" target="_blank">Portfolio</a>
 </h1>
 
@@ -40,7 +43,3 @@ ___
 
 ![](https://komarev.com/ghpvc/?username=EufranioDiogo&color=blue&style=flat)
 <br>
-<em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em><br>
-
-**Email:** eufraniodigo146@gmail.com <br>
-**Linkedin:** https://www.linkedin.com/in/eufranio-diogo-a33145122/
