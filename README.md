@@ -1,4 +1,4 @@
-<h1>Hello bem-vindo ao Github Eufránio Diogo :smile:</h1>
+<h1 align="center">Hello bem-vindo ao Github Eufránio Diogo :smile:</h1>
 
 <h2 align="center">Description</h2>
 
