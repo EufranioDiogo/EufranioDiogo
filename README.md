@@ -1,26 +1,37 @@
-<h1 align="center">Hello bem-vindo ao Github Eufránio Diogo :smile:</h1>
+<h1 align="center"> :computer: Welcome ao meu Github :smile:</h1>
 
-<h2 align="center">Description</h2>
+<h2 align="center">More About Me | Mais Sobre Mim</h2>
 
 ```
-Computer Science Student - (UCAN)
-Front-end Dev
-Aspirant to Back-end
+IT Student | Estudante de IT -> :university: UCAN 
+Professional Stack:
+  - Frontend Dev (HTML, CSS, JavaScript, Vue.js, Sass)
+  - Getting experience with Back-end (SpringBoot, Java, Node.js, Python)
+State: Employed by MwangoClick
 ```
-
-<h2 align="center">Personal Details</h2>
 
 ```js
 {
   name: 'Eufránio Diogo'
-  nationality: 'Angolan',
-  hobbies: ['talk', 'listen music', 'read', 'code'],
+  location: 'Angola',
+  age: '20',
+  from: 'Angola',
+  to: 'God Kingdom',
+  hobbies: ['talk', 'code', 'watch videos on Youtube', 'read', 'dance', 'workout'],
   contact: {
     email: 'eufraniodiogo146@gmail.com',
     linekdin: 'https://www.linkedin.com/in/eufranio-diogo-a33145122/',
-    youtube: 'https://www.youtube.com/channel/UCGHrfgpFKFI7lCork7iKF6g'
+    youtube: 'https://www.youtube.com/channel/UCGHrfgpFKFI7lCork7iKF6g',
+    facebook: 'https://www.facebook.com/EufranioDiogo10/'
   },
-  code: ['Javascript', 'Java', 'C', 'Python','Vue.js', 'HTML', 'CSS', 'Node.js'],
+  run: function () => {
+    console.log('Welcome to this new generation of coders that wanna learn with older ones\nAnd change the game.');
+    
+    return {
+      status: 200,
+      message: 'Well done'
+    }
+  }
 }
 ```
 
