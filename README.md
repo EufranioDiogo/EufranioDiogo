@@ -1,11 +1,11 @@
-<h1 align="center"> :computer: Welcome ao meu Github :smile:</h1>
+<h1 align="center"> 🌟 Welcome ao meu Github 🌟 </h1>
 
 ---
 
 Bachelor in Computer Science by Catholic University Of Angola 🧑‍🎓
 
 Professional Areas:
-  - Blockchain Starter Developer
+  - Starter Blockchain Developer
   - Frontend Dev (HTML, CSS, JavaScript, Vue.js, Sass).
   - Getting experience with Back-end (SpringBoot, Java, Node.js, Python).
 
@@ -21,18 +21,15 @@ Experience: 4 months on the market.
   from: 'Angola',
   to: 'God Kingdom',
   hobbies: ['talk', 'love my loved ones', 'code', 'watch videos on Youtube', 'read', 'dance', 'workout'],
-  contact: {
+  contacts: {
     email: 'eufraniodiogo146@gmail.com',
     linekdin: 'https://www.linkedin.com/in/eufranio-diogo-a33145122/',
-    youtube: 'https://www.youtube.com/channel/UCGHrfgpFKFI7lCork7iKF6g',
+    github: 'https://github.com/EufranioDiogo/EufranioDiogo/',
     facebook: 'https://www.facebook.com/EufranioDiogo10/'
   },
-  run: function () {
-    console.log('Welcome to this new generation of coders that wanna learn with older ones\nAnd change the game.');
-    
-    return {
-      status: 200,
-      message: 'Well done'
+  functions: {
+    helloWorld: function() {
+        console.log('Hello world! You\'re in Eufrániop Diogo Github');
     }
   }
 }
@@ -57,7 +54,7 @@ Experience: 4 months on the market.
 </table>
 </center>
 
-<h1 align="left" style="color: red;">
+<h1 align="center" style="color: red;">
     <a align="center" href="https://eufraniodiogo.github.io" target="_blank">Portfolio</a>
 </h1>
 
