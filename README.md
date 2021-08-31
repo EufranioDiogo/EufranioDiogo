@@ -29,7 +29,7 @@ Experience: 4 months on the market.
   },
   functions: {
     helloWorld: function() {
-        console.log('Hello world! You\'re in Eufrániop Diogo Github');
+        console.log('Hello world! You\'re in Eufránio Diogo Github');
     }
   }
 }
