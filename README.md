@@ -1,38 +1,38 @@
-<h1 align="center"> 🌟 Welcome ao meu Github 🌟 </h1>
+<h1 align="center"> 🌟 Eufránio Diogo a Star on the Stars 🌟 </h1>
 
 ---
 
 Bachelor in Computer Science by Catholic University Of Angola 🧑‍🎓
 
-Professional Areas:
-  - Starter Blockchain Developer
-  - Frontend Dev (HTML, CSS, JavaScript, Vue.js, Sass).
-  - Getting experience with Back-end (SpringBoot, Java, Node.js, Python).
+Details:
+  - React.js Dev
+  - Node.js Dev
+  - Frontend Dev with (HTML, CSS, JavaScript, React, Sass).
+  - Passionate about techs trying to learn things that I want.
+  - Some experience with (SpringBoot, Java, Python, C, Ruby, Linux and Shell Scripting).
 
-State: Employed by MwangoClick.
-Experience: 4 months on the market.
+Professional State: Working at MwangoBrain.SA, since July 2021
 
 
 ```js
-{
-  name: 'Eufránio Diogo'
-  location: 'Luanda - Angola',
-  age: '20',
-  from: 'Angola',
-  to: 'God Kingdom',
-  hobbies: ['talk', 'love my loved ones', 'code', 'watch videos on Youtube', 'read', 'dance', 'workout'],
-  contacts: {
-    email: 'eufraniodiogo146@gmail.com',
-    linekdin: 'https://www.linkedin.com/in/eufranio-diogo-a33145122/',
-    github: 'https://github.com/EufranioDiogo/EufranioDiogo/',
-    facebook: 'https://www.facebook.com/EufranioDiogo10/'
-  },
-  functions: {
-    helloWorld: function() {
-        console.log('Hello world! You\'re in Eufránio Diogo Github');
-    }
+const mySelf = (moreInfo) => {
+  return {
+    name: 'Eufránio Diogo'
+    location: 'Luanda - Angola',
+    age: (new Date()).getFullYear() - 2001,
+    from: 'Angola',
+    to: 'God Kingdom',
+    hobbies: ['code', 'watch youtube videos', 'talk', 'social medias', 'workout'],
+    contacts: {
+      email: 'eufraniodiogo146@gmail.com',
+      linekdin: 'https://www.linkedin.com/in/eufranio-diogo-a33145122/',
+      github: 'https://github.com/EufranioDiogo/',
+      facebook: 'https://www.facebook.com/EufranioDiogo10/'
+    },
+    ...moreInfo
   }
 }
+
 ```
 
 
