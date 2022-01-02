@@ -2,7 +2,10 @@
 
 ---
 
-Bachelor in Computer Science by Catholic University Of Angola 🧑‍🎓
+Hi, welcome to my Github account, my name is Eufránio, I'm from Angola exactily Luanda, I'm 21 years old guy learning backend development with Node.js, front with React.js and trying to see also mobile with ReactNative lol, and right now Bachelor in Computer Science by Catholic University Of Angola 🧑‍🎓.
+
+## Hope that you enjoy the content right here :heart:
+
 
 Details:
   - React.js Dev
