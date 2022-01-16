@@ -8,9 +8,8 @@ Hi, welcome to my Github account, my name is Eufránio, I'm from Angola exactily
 
 
 Details:
-  - React.js Dev
-  - Node.js Dev
   - Frontend Dev with (HTML, CSS, JavaScript, React, Sass).
+  - Backend Dev with (Node.js).
   - Passionate about techs trying to learn things that I want.
   - Some experience with (SpringBoot, Java, Python, C, Ruby, Linux and Shell Scripting).
 
