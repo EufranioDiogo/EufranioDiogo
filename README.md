@@ -13,7 +13,7 @@ Details:
   - Passionate about techs trying to learn things that I want.
   - Some experience with (SpringBoot, Java, Python, C, Ruby, Linux and Shell Scripting).
 
-Professional State: Working at MwangoBrain.SA, since July 2021
+Professional State: Not avaible :smile: working on other things
 
 
 ```js
