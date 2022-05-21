@@ -9,11 +9,11 @@ Hi, welcome to my Github account, my name is Eufránio, I'm from Angola exactily
 
 Details:
   - Frontend Dev with (HTML, CSS, JavaScript, React, Sass).
-  - Backend Dev with (Node.js, SpringBoot, Java).
+  - Backend Dev with (Node.js, SpringBoot).
   - Passionate about techs trying to learn things that I want.
-  - Some experience with (Python, C, Ruby, Linux and Shell Scripting).
+  - Languages that I use: Java, Python, C, C++, Ruby, Shell Scripting.
 
-Professional State: Not avaible :smile: working on other things
+Professional State: Working with stuff that I love.
 
 
 ```js
