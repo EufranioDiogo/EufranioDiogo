@@ -41,27 +41,21 @@ const mySelf = (moreInfo) => {
 <center>
 <table>
     <tr>
-      <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=EufranioDiogo&theme=buefy"/></td>
-      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EufranioDiogo&layout=compact&theme=buefy" /></td>
-    </tr>
-    <tr>
-        <td>
-          <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-          <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>
-          <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"/>
-          <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
-        </td>
-        <td></td>
+      <td>
+        <img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=EufranioDiogo&theme=buefy"/>
+      </td>
+      <td>
+        <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EufranioDiogo&layout=compact&theme=buefy" />
+      </td>
     </tr>
 </table>
 </center>
 
-<h1 align="center" style="color: red;">
+<br/>
+
+<h3 style="color: red;">
     <a align="center" href="https://eufraniodiogo.github.io" target="_blank">Portfolio</a>
-</h1>
-
-
-___
+</h3>
 
 ![](https://komarev.com/ghpvc/?username=EufranioDiogo&color=blue&style=flat)
-<br>
+
