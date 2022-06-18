@@ -3,13 +3,10 @@
 Hi, welcome to my Github account, my name is Eufránio, I'm from Angola exactily Luanda, I'm 21 years old guy learning backend development with Node.js, front with React.js and trying to see also mobile with ReactNative lol, and right now Bachelor in Computer Science by Catholic University Of Angola 🧑‍🎓.
 
 **Details:**
-  - Frontend Dev with (HTML, CSS, JavaScript, React, Sass).
-  - Backend Dev with (Node.js, SpringBoot).
-  - Passionate about techs trying to learn things that I want.
-  - Languages that I use: Java, Python, C, C++, Ruby, Shell Scripting.
-
-**Professional State:** Working with stuff that I love.
-
+  - Backend Dev with SpringBoot.
+  - Front-end Stack: React, Sass.
+  - My freetimes languages: C++, JS, Python.
+ 
 
 ```js
 const mySelf = (moreInfo) => {
