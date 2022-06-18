@@ -1,11 +1,12 @@
-# :computer: Hope that you enjoy my repos 💁‍♂️
+# :coffee: Welcome to my Github profile
 
-Hi, welcome to my Github account, my name is Eufránio, I'm from Angola exactily Luanda, I'm 21 years old guy learning backend development with Node.js, front with React.js and trying to see also mobile with ReactNative lol, and right now Bachelor in Computer Science by Catholic University Of Angola 🧑‍🎓.
+Welcome to my Github, my name is Eufránio, I'm a Spring-boot back-end developer, but sometimes I need to work with front using React.js.
 
 **Details:**
   - Backend Dev with SpringBoot.
   - Front-end Stack: React, Sass.
   - My freetimes languages: C++, JS, Python.
+  - Academic: Bachelor in Computer Science by Catholic University Of Angola 🧑‍🎓.
  
 
 ```js
