@@ -30,6 +30,8 @@ const mySelf = (moreInfo) => {
 
 ```
 
+  ![profile-details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EufranioDiogo&theme=radical)
+
 
 <center>
 <table>
