@@ -1,4 +1,4 @@
-# :coffee: Welcome to my Github profile
+# :computer: Welcome to my Github profile 👦
 
 Welcome to my Github, my name is Eufránio, I'm a Spring-boot back-end developer, but sometimes I need to work with front using React.js.
 
