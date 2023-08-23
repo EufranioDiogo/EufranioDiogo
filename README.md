@@ -3,6 +3,7 @@
 Welcome to my Github, my name is Eufránio, I'm a Spring-boot back-end developer, but sometimes I need to work with front using React.js.
 
 **Details:**
+  - Currently Learning **Haskell**
   - Backend Dev with SpringBoot.
   - Front-end Stack: React, Sass.
   - My freetimes languages: C++, JS, Python.
